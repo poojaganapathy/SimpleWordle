@@ -37,6 +37,10 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with LiceCap. 
 
+This is an additional screenshot showing what happens when the user guesses the word correctly:
+
+<img src='http://i.imgur.com/a/uCy6xwO.png' title='Screenshot' width='' alt='Screenshot' />
+
 ## Notes
 
 This app was fun to build and required more coding than the previous apps. It took some time to get the layout right but apart from that, there were no difficulties.
