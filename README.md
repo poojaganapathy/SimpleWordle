@@ -39,7 +39,7 @@ GIF created with LiceCap.
 
 This is an additional screenshot showing what happens when the user guesses the word correctly:
 
-<img src='http://i.imgur.com/a/uCy6xwO.png' title='Screenshot' width='' alt='Screenshot' />
+![Screenshot](correct-guess-example.png)
 
 ## Notes
 
